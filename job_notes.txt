@@ -41,6 +41,5 @@ Bash/Python Scripts
 Recreate an existing project by studying a codebase
 Instance segmentation image processing project (GIS related)
 
-
 GENUARY!
 
