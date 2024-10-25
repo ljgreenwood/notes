@@ -1,0 +1,51 @@
+5.3 :: Hypergeometric Distributions -> Find a case and implement in R
+
+5.4 :: Negative Binomial & Geom Distributions -> ""
+
+5.2 :: Multinomial Distribution -> ""
+
+5.5 :: Poisson -> ""
+
+Stats Unit 1 Practice Questions
+
+Stats Unit 2 Practice Questions
+
+Learn Scientific Notations
+
+6.1 :: Continuous Uniform Distribution -> ""
+
+6.2 :: Normal Distribution -> "" + Equation of a Normal Distribution
+
+6.3 :: Z values and area of a range in the probability distribution -> ""
+
+6.5 :: Normal Approximation to the Binomial -> ""
+
+6.6 ::
+	GAMMA	mew = alpha*Beta
+		sigma^2 = alpha*Beta^2
+
+(a = 1)	EXPON	mew = Beta	(also called negative exponential)
+		sigma^2 = Beta^2
+	
+	* Related to Poisson process by proof of p(0; lambda * t) = e^(-lambda * t)
+	* Probability of no events occuring in a variable timeframe
+
+	Thus for random variable X defined by the exponential. 
+	The probability of the time exceeding a given value is e^(-lambda * x)
+	1 - Probability of time exceeding == Probability of an event occuring 
+	in a given range of time
+	(this is the cumulative distribution function for a given upper bound.
+	Derive to find the density function lambda * e^(-lambda * x)
+	(when lambda = 1/Beta) --> This becomes the exponential distribution
+
+6.17 :: Examples & Readings on the memoryless property and effect on EXPON
+
+6.7-6.10
+
+OPTIONAL :::: JACOBIANS IN STATISTICS!!!! --> Functions of Random Variables
+
+Chapter 8 :: 3Blue1Brown CLT -> Theorem 8.1 :: Case Studies
+
+
+
+
